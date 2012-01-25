@@ -6,82 +6,82 @@ Home da Globo.com
 CV
 ==
 
-**Nome**: Igor de Sousa Almeida
-**Endereço**: Rua Ieda Pereira, 427, Parque Manibura, 60821-572 - Fortaleza - CE
-**Telefone**: (85) 96499102
-**E-mail**: igorarak@gmail.com
-**Data de Nascimento**: 16 de Novembro de 1987
+**Nome**: Igor de Sousa Almeida<br></br>
+**Endereço**: Rua Ieda Pereira, 427, Parque Manibura, 60821-572 - Fortaleza - CE<br></br>
+**Telefone**: (85) 96499102<br></br>
+**E-mail**: igorarak@gmail.com<br></br>
+**Data de Nascimento**: 16 de Novembro de 1987<br></br>
 
 ###Nível Educacional
-**ITA - Instituto Tecnológico de Aeronáutica**
-*(Fev 2006 - Dez 2011)* 
-Bacharelado em Engenharia de Computação
+**ITA - Instituto Tecnológico de Aeronáutica**<br></br>
+*(Fev 2006 - Dez 2011)* <br></br>
+Bacharelado em Engenharia de Computação<br></br>
 
 ###Experiência Profissional
-**Google Inc – Mountain View, California, Estados Unidos**
-*(Abr 2011 - Jul 2011) Estagiário em Desenvolvimento de Software* 
-- Trabalhando no time Display Ad Builder, desenvolvendo uma funcionalidade
-que permite que o usuário construa um display ad a partir de apresentações de
-slides (.ppt, .pptx), utilizando Java e GWT.
+**Google Inc – Mountain View, California, Estados Unidos**<br></br>
+*(Abr 2011 - Jul 2011) Estagiário em Desenvolvimento de Software* <br></br>
+- Trabalhando no time Display Ad Builder, desenvolvendo uma funcionalidade<br></br>
+que permite que o usuário construa um display ad a partir de apresentações de<br></br>
+slides (.ppt, .pptx), utilizando Java e GWT.<br></br>
 
-**Regrupe - São Paulo, São Paulo**
-*(Fev 2011 - Abr 2011) Estagiário em Desenvolvimento de Software* 
-- Participando no desenvolvimento do site da empresa, utilizando Google App
-Engine e Java. A empresa era uma startup que trabalhava com mercado
-secundário de cupons de compras coletivas.
+**Regrupe - São Paulo, São Paulo**<br></br>
+*(Fev 2011 - Abr 2011) Estagiário em Desenvolvimento de Software* <br></br>
+- Participando no desenvolvimento do site da empresa, utilizando Google App<br></br>
+Engine e Java. A empresa era uma startup que trabalhava com mercado<br></br>
+secundário de cupons de compras coletivas.<br></br>
 
-**Usesoft AS - Tallinn, Harjumaa, Estonia**
-*(Jan 2010 - Jan 2011) Estagiário em Desenvolvimento de Software* 
-- Desenvolvendo um aplicativo para desktop que permite a criação/modificação
-dinâmica de relatórios, utilizando WPF (Windows Presentation Foundation) com
-C# e Crystal Reports.
-- Desenvolvendo um aplicativo bot que responde perguntas do usuário com
-informações do banco de dados através do Skype, utilizando Skype API e MS SQL
-Server.
-- Trabalhando no desenvolvimento de um aplicativo web do ERP (Enterprise
-Resource Planning) da empresa, ProdMaster, utilizando ASP.NET MVC 2 com C# e
-framework de componentes Ext.NET.
+**Usesoft AS - Tallinn, Harjumaa, Estonia**<br></br>
+*(Jan 2010 - Jan 2011) Estagiário em Desenvolvimento de Software* <br></br>
+- Desenvolvendo um aplicativo para desktop que permite a criação/modificação<br></br>
+dinâmica de relatórios, utilizando WPF (Windows Presentation Foundation) com<br></br>
+C# e Crystal Reports.<br></br>
+- Desenvolvendo um aplicativo bot que responde perguntas do usuário com<br></br>
+informações do banco de dados através do Skype, utilizando Skype API e MS SQL<br></br>
+Server.<br></br>
+- Trabalhando no desenvolvimento de um aplicativo web do ERP (Enterprise<br></br>
+Resource Planning) da empresa, ProdMaster, utilizando ASP.NET MVC 2 com C# e<br></br>
+framework de componentes Ext.NET.<br></br>
 
-**Fundação Casimiro Montenegro Filho - São José dos Campos, São Paulo**
-*(Jun 2009 - dez 2009) Estagiário em Desenvolvimento de Software* 
-- Trabalhando na interface com o usuário de um aplicativo web, utilizando
-JavaServer Faces com componentes Apache Trinidad e Skinning skills.
+**Fundação Casimiro Montenegro Filho - São José dos Campos, São Paulo**<br></br>
+*(Jun 2009 - dez 2009) Estagiário em Desenvolvimento de Software* <br></br>
+- Trabalhando na interface com o usuário de um aplicativo web, utilizando<br></br>
+JavaServer Faces com componentes Apache Trinidad e Skinning skills.<br></br>
 
-**Locaweb - São Paulo, São Paulo**
-*(Jan 2009 - Fev 2009) Estagiário em Desenvolvimento de Software* 
-- Trabalhando no Departamento de Hospedagem Linux, desenvolvendo um
-aplicativo em Python que automatiza a conversão de pacotes para formato RPM.
+**Locaweb - São Paulo, São Paulo**<br></br>
+*(Jan 2009 - Fev 2009) Estagiário em Desenvolvimento de Software* <br></br>
+- Trabalhando no Departamento de Hospedagem Linux, desenvolvendo um<br></br>
+aplicativo em Python que automatiza a conversão de pacotes para formato RPM.<br></br>
 
-**Stefanini IT Solutions - São José dos Campos, São Paulo**
-*(Jul 2008 - Dez 2008) Estagiário em Desenvolvimento de Software* 
-- Trabalhando no desenvolvimento do aplicativo web utilizado para
-administração interna da empresa, utilizando ASP.NET WebForms com C# e
-Microsoft SQL Server.
+**Stefanini IT Solutions - São José dos Campos, São Paulo**<br></br>
+*(Jul 2008 - Dez 2008) Estagiário em Desenvolvimento de Software* <br></br>
+- Trabalhando no desenvolvimento do aplicativo web utilizado para<br></br>
+administração interna da empresa, utilizando ASP.NET WebForms com C# e<br></br>
+Microsoft SQL Server.<br></br>
 
 ###Responsabilidades e Atividades Extra-curriculares
-**Casd Vestibulares**
-CASD Vestibulares é uma organização sem fins lucrativos criada e mantida por alunos do ITA como uma
-alternativa de excelência no preparo de jovens carentes para o vestibular.
-*(Mai 2008 - Dez 2008) Membro do Departamento de Marketing* 
-- Trabalhando como designer, criando material para publicidade.
-- Angariando doações.
+**Casd Vestibulares**<br></br>
+CASD Vestibulares é uma organização sem fins lucrativos criada e mantida por alunos do ITA como uma<br></br>
+alternativa de excelência no preparo de jovens carentes para o vestibular.<br></br>
+*(Mai 2008 - Dez 2008) Membro do Departamento de Marketing* <br></br>
+- Trabalhando como designer, criando material para publicidade.<br></br>
+- Angariando doações.<br></br>
 
-**CV - Comissão de Viagens**
-A CV é uma comissão que organiza e arrecada fundos para promover uma viagem técnica e cultural à
-Europa, com visitas a empresas e universidades. A CV é composta por alunos do quarto ano do ITA.
-*(Set 2008 - Dez 2009) Designer* 
-- Criando material para publicidade.
-- Desenvolvendo logos para os departamentos da CV.
-- Desenvolvendo arte de camisas do ITA.
-- Vendendo camisas do ITA através de telefone e internet.
+**CV - Comissão de Viagens**<br></br>
+A CV é uma comissão que organiza e arrecada fundos para promover uma viagem técnica e cultural à<br></br>
+Europa, com visitas a empresas e universidades. A CV é composta por alunos do quarto ano do ITA.<br></br>
+*(Set 2008 - Dez 2009) Designer* <br></br>
+- Criando material para publicidade.<br></br>
+- Desenvolvendo logos para os departamentos da CV.<br></br>
+- Desenvolvendo arte de camisas do ITA.<br></br>
+- Vendendo camisas do ITA através de telefone e internet.<br></br>
 
 ###Habilidades Computacionais
-**Sistemas Operacionais:** Linux, Windows
-**Programação:** C, C#, Java, Python, SQL, .NET, Eclipse IDE, Netbeans IDE, Visual Studio 2010
-**Aplicativos Office:** MS Word, MS Excel, MS PowerPoint, MS Visio, Open Office, Google Docs
-**Gráficos & Web:** Adobe Photoshop, Adobe Illustrator, Corel Draw, Gimp, CSS, HTML
+**Sistemas Operacionais:** Linux, Windows<br></br>
+**Programação:** C, C#, Java, Python, SQL, .NET, Eclipse IDE, Netbeans IDE, Visual Studio 2010<br></br>
+**Aplicativos Office:** MS Word, MS Excel, MS PowerPoint, MS Visio, Open Office, Google Docs<br></br>
+**Gráficos & Web:** Adobe Photoshop, Adobe Illustrator, Corel Draw, Gimp, CSS, HTML<br></br>
 
 ###Outras Habilidades
-**Línguas:** Inglês (Avançado), Português (Nativo)
-**Habilidades artísticas:** Experiência com arte tradicional e digital.
-**Demais habilidades:** Habilidades analítica, autodidata e criativa.
+**Línguas:** Inglês (Avançado), Português (Nativo)<br></br>
+**Habilidades artísticas:** Experiência com arte tradicional e digital.<br></br>
+**Demais habilidades:** Habilidades analítica, autodidata e criativa.<br></br>

@@ -13,7 +13,7 @@ def refrigerate(current_temperature, desired_temperature, duration):
 		wait_a_minute()
 		current_time = current_time + 1
 		current_temperature = current_temperature + 0.5
-	return cost
+	return (current_temperature, cost)
 
 def reduce_one_degree():
 	# calls air conditioner hardware function reduz_um_grau()
